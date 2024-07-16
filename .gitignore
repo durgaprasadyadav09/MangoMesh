@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MangoMesh/.vs/MangoMesh
+/MangoMesh/MangoMesh.Services.CouponAPI/bin/Debug/net8.0
+/MangoMesh/MangoMesh.Services.CouponAPI/obj
